@@ -2,9 +2,7 @@
 # the described class (or method) for the tests to even run. It's sort of a
 # freebie test to make sure you've actually defined the models you plan on
 # testing.
- cd my/cool/ruby/project
-rubocop
-
+ 
 describe Person do
 
   let(:avi_attributes) {
